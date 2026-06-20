@@ -1,0 +1,100 @@
+Nov 26 12:55:00 server-01 sshd[5728]: Accepted password for user user5 from 10.0.0.6
+Nov 26 12:55:00 server-01 sshd[7594]: Accepted password for user user3 from 10.0.0.15
+Nov 26 12:55:00 server-01 sshd[8172]: Accepted password for user user4 from 10.0.0.9
+Nov 26 12:55:00 server-01 sshd[6280]: Accepted password for user user4 from 10.0.0.3
+Nov 26 12:55:00 server-01 sshd[4750]: Failed password for user admin from 10.0.0.9
+Nov 26 12:55:00 server-01 sshd[5415]: Accepted password for user user1 from 10.0.0.19
+Nov 26 12:55:00 server-01 sshd[3870]: Failed password for user admin from 10.0.0.19
+Nov 26 12:55:00 server-01 sshd[5557]: Accepted password for user user4 from 10.0.0.16
+Nov 26 12:55:00 server-01 sshd[9056]: Accepted password for user user4 from 10.0.0.6
+Nov 26 12:55:00 server-01 sshd[6460]: Accepted password for user user4 from 10.0.0.3
+Nov 26 12:55:00 server-01 sshd[6403]: Accepted password for user user2 from 10.0.0.11
+Nov 26 12:55:00 server-01 sshd[7561]: Accepted password for user user3 from 10.0.0.14
+Nov 26 12:55:00 server-01 sshd[2442]: Failed password for user admin from 10.0.0.18
+Nov 26 12:55:00 server-01 sshd[7622]: Accepted password for user user1 from 10.0.0.11
+Nov 26 12:55:00 server-01 sshd[9889]: Accepted password for user user1 from 10.0.0.17
+Nov 26 12:55:00 server-01 sshd[9494]: Accepted password for user user2 from 10.0.0.15
+Nov 26 12:55:00 server-01 sshd[8242]: Accepted password for user user4 from 10.0.0.12
+Nov 26 12:55:00 server-01 sshd[3146]: Accepted password for user user5 from 10.0.0.2
+Nov 26 12:55:00 server-01 sshd[2989]: Accepted password for user user4 from 10.0.0.10
+Nov 26 12:55:00 server-01 sshd[4920]: Accepted password for user user5 from 10.0.0.1
+Nov 26 12:55:00 server-01 sshd[7684]: Accepted password for user user1 from 10.0.0.6
+Nov 26 12:55:00 server-01 sshd[8560]: Accepted password for user user1 from 10.0.0.3
+Nov 26 12:55:00 server-01 sshd[9165]: Accepted password for user user2 from 10.0.0.4
+Nov 26 12:55:00 server-01 sshd[7807]: Accepted password for user user3 from 10.0.0.10
+Nov 26 12:55:00 server-01 sshd[8483]: Accepted password for user user2 from 10.0.0.16
+Nov 26 12:55:00 server-01 sshd[9327]: Accepted password for user user2 from 10.0.0.18
+Nov 26 12:55:00 server-01 sshd[7798]: Accepted password for user user3 from 10.0.0.5
+Nov 26 12:55:00 server-01 sshd[5377]: Accepted password for user user5 from 10.0.0.11
+Nov 26 12:55:00 server-01 sshd[9022]: Accepted password for user user3 from 10.0.0.1
+Nov 26 12:55:00 server-01 sshd[6654]: Accepted password for user user4 from 10.0.0.5
+Nov 26 12:55:00 server-01 sshd[7180]: Accepted password for user user5 from 10.0.0.11
+Nov 26 12:55:00 server-01 sshd[4912]: Accepted password for user user2 from 10.0.0.15
+Nov 26 12:55:00 server-01 sshd[1715]: Accepted password for user user4 from 10.0.0.19
+Nov 26 12:55:00 server-01 sshd[7325]: Accepted password for user user4 from 10.0.0.11
+Nov 26 12:55:00 server-01 sshd[3068]: Accepted password for user user1 from 10.0.0.5
+Nov 26 12:55:00 server-01 sshd[2644]: Accepted password for user user3 from 10.0.0.17
+Nov 26 12:55:00 server-01 sshd[8486]: Failed password for user admin from 10.0.0.15
+Nov 26 12:55:00 server-01 sshd[3529]: Accepted password for user user4 from 10.0.0.1
+Nov 26 12:55:00 server-01 sshd[6546]: Accepted password for user user3 from 10.0.0.3
+Nov 26 12:55:00 server-01 sshd[9742]: Accepted password for user user3 from 10.0.0.13
+Nov 26 12:55:00 server-01 sshd[9864]: Accepted password for user user4 from 10.0.0.13
+Nov 26 12:55:00 server-01 sshd[2121]: Failed password for root from 192.168.99.99 port 3352 ssh2
+Nov 26 12:55:00 server-01 sshd[5708]: Failed password for root from 192.168.99.99 port 16385 ssh2
+Nov 26 12:55:00 server-01 sshd[2480]: Failed password for root from 192.168.99.99 port 15908 ssh2
+Nov 26 12:55:00 server-01 sshd[2612]: Failed password for root from 192.168.99.99 port 29440 ssh2
+Nov 26 12:55:00 server-01 sshd[2646]: Failed password for root from 192.168.99.99 port 50831 ssh2
+Nov 26 12:55:00 server-01 sshd[3725]: Failed password for root from 192.168.99.99 port 30076 ssh2
+Nov 26 12:55:00 server-01 sshd[5906]: Failed password for root from 192.168.99.99 port 46482 ssh2
+Nov 26 12:55:00 server-01 sshd[1753]: Failed password for root from 192.168.99.99 port 2897 ssh2
+Nov 26 12:55:00 server-01 sshd[1919]: Failed password for root from 192.168.99.99 port 22258 ssh2
+Nov 26 12:55:00 server-01 sshd[6873]: Failed password for root from 192.168.99.99 port 20226 ssh2
+Nov 26 12:55:00 server-01 sshd[8056]: Failed password for root from 192.168.99.99 port 25565 ssh2
+Nov 26 12:55:00 server-01 sshd[5000]: Failed password for root from 192.168.99.99 port 10540 ssh2
+Nov 26 12:55:00 server-01 sshd[7751]: Failed password for root from 192.168.99.99 port 35810 ssh2
+Nov 26 12:55:00 server-01 sshd[3950]: Failed password for root from 192.168.99.99 port 38088 ssh2
+Nov 26 12:55:00 server-01 sshd[7267]: Accepted password for user user5 from 10.0.0.6
+Nov 26 12:55:00 server-01 sshd[3344]: Accepted password for user user5 from 10.0.0.8
+Nov 26 12:55:00 server-01 sshd[8529]: Accepted password for user user3 from 10.0.0.8
+Nov 26 12:55:00 server-01 sshd[5712]: Accepted password for user user4 from 10.0.0.9
+Nov 26 12:55:00 server-01 sshd[6661]: Accepted password for user user4 from 10.0.0.18
+Nov 26 12:55:00 server-01 sshd[5097]: Accepted password for user user4 from 10.0.0.19
+Nov 26 12:55:00 server-01 sshd[7302]: Accepted password for user user2 from 10.0.0.15
+Nov 26 12:55:00 server-01 sshd[6881]: Accepted password for user user4 from 10.0.0.16
+Nov 26 12:55:00 server-01 sshd[1359]: Accepted password for user user3 from 10.0.0.19
+Nov 26 12:55:00 server-01 sshd[1803]: Accepted password for user user5 from 10.0.0.13
+Nov 26 12:55:00 server-01 sshd[4770]: Accepted password for user user3 from 10.0.0.16
+Nov 26 12:55:00 server-01 sshd[5106]: Accepted password for user user2 from 10.0.0.12
+Nov 26 12:55:00 server-01 sshd[6061]: Accepted password for user user1 from 10.0.0.5
+Nov 26 12:55:00 server-01 sshd[6977]: Failed password for user admin from 10.0.0.15
+Nov 26 12:55:00 server-01 sshd[5835]: Failed password for user admin from 10.0.0.5
+Nov 26 12:55:00 server-01 sshd[4289]: Accepted password for user user2 from 10.0.0.11
+Nov 26 12:55:00 server-01 sshd[9697]: Accepted password for user user3 from 10.0.0.5
+Nov 26 12:55:00 server-01 sshd[5210]: Accepted password for user user2 from 10.0.0.17
+Nov 26 12:55:00 server-01 sshd[6549]: Accepted password for user user3 from 10.0.0.16
+Nov 26 12:55:00 server-01 sshd[3306]: Accepted password for user user1 from 10.0.0.4
+Nov 26 12:55:00 server-01 sshd[6992]: Accepted password for user user4 from 10.0.0.8
+Nov 26 12:55:00 server-01 sshd[5332]: Accepted password for user user1 from 10.0.0.3
+Nov 26 12:55:00 server-01 sshd[5295]: Accepted password for user user3 from 10.0.0.18
+Nov 26 12:55:00 server-01 sshd[2775]: Accepted password for user user3 from 10.0.0.19
+Nov 26 12:55:00 server-01 sshd[6374]: Accepted password for user user5 from 10.0.0.8
+Nov 26 12:55:00 server-01 sshd[5951]: Accepted password for user user4 from 10.0.0.8
+Nov 26 12:55:00 server-01 sshd[1609]: Accepted password for user user1 from 10.0.0.14
+Nov 26 12:55:00 server-01 sshd[2592]: Accepted password for user user1 from 10.0.0.10
+Nov 26 12:55:00 server-01 sshd[7367]: Accepted password for user user2 from 10.0.0.8
+Nov 26 12:55:00 server-01 sshd[7866]: Accepted password for user user5 from 10.0.0.15
+Nov 26 12:55:00 server-01 sshd[7797]: Accepted password for user user2 from 10.0.0.19
+Nov 26 12:55:00 server-01 sshd[7686]: Accepted password for user user5 from 10.0.0.4
+Nov 26 12:55:00 server-01 sshd[7070]: Failed password for user admin from 10.0.0.9
+Nov 26 12:55:00 server-01 sshd[6942]: Accepted password for user user2 from 10.0.0.7
+Nov 26 12:55:00 server-01 sshd[9920]: Accepted password for user user3 from 10.0.0.4
+Nov 26 12:55:00 server-01 sshd[5520]: Failed password for user admin from 10.0.0.12
+Nov 26 12:55:00 server-01 sshd[2501]: Accepted password for user user4 from 10.0.0.7
+Nov 26 12:55:00 server-01 sshd[1349]: Accepted password for user user5 from 10.0.0.7
+Nov 26 12:55:00 server-01 sshd[3063]: Accepted password for user user2 from 10.0.0.2
+Nov 26 12:55:00 server-01 sshd[4394]: Accepted password for user user5 from 10.0.0.19
+Nov 26 12:55:00 server-01 sshd[6383]: Accepted password for user user2 from 10.0.0.19
+Nov 26 12:55:00 server-01 sshd[1046]: Accepted password for user user5 from 10.0.0.5
+Nov 26 12:55:00 server-01 sshd[3129]: Accepted password for user user2 from 10.0.0.9
+Nov 26 12:55:00 server-01 sshd[2801]: Accepted password for user user2 from 10.0.0.18
+Nov 26 12:55:00 server-01 sshd[4898]: Accepted password for user user3 from 10.0.0.1

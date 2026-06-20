@@ -10,7 +10,7 @@ This repository is organized by subject. Inside each folder, you will find the s
 
 * [📁 `PAC I`](./Applied-Programming-Cybersecurity-I) - Applied Programming for Cybersecurity I
 * [📁 `PAC II`](./Applied-Programming-Cybersecurity-II) - Applied Programming for Cybersecurity II
-* [📁 `FC`](./Cloud-Computing-Foundations)C - Fundamentals of Cloud Computing (AWS, EC2, S3)
+* [📁 `FCC`](./Cloud-Computing-Foundations) - Fundamentals of Cloud Computing (AWS, EC2, S3)
 * [📁 `Cloud-Cybersecurity-Project`](./Cloud-Cybersecurity-Project) - Cloud and Cybersecurity Final Project
 * [📁 `TC`](./Cloud-Technologies) - Cloud Technologies
 * [📁 `RC`](./Computer-Networks) - Computer Networks
@@ -19,7 +19,7 @@ This repository is organized by subject. Inside each folder, you will find the s
 * [📁 `IC`](./Intro-to-Cybersecurity) - Introduction to Cybersecurity
 * [📁 `IoT`](./IoT-Cybersecurity) - IoT Cybersecurity
 * [📁 `AO`](./Operating-Environments) - Operating Systems
-* [📁`DB`](./Database-Management) - Database Foundations, Administration, and Management 
+* [📁`DB`](./Database-Management) - Database Foundations, Administration, and Management     
 
 ## 💻 Technologies & Tools
 

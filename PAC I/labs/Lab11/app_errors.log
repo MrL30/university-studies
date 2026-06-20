@@ -1,0 +1,100 @@
+2025-01-01 10:00:00 INFO: User logged in
+2025-01-01 10:01:00 DEBUG: Variable x=5
+2025-01-01 10:02:00 DEBUG: Variable x=5
+2025-01-01 10:03:00 DEBUG: Variable x=5
+2025-01-01 10:04:00 INFO: User logged in
+2025-01-01 10:05:00 ERROR: Database connection failed
+2025-01-01 10:06:00 DEBUG: Variable x=5
+2025-01-01 10:07:00 INFO: User logged in
+2025-01-01 10:08:00 CRITICAL: System crash
+2025-01-01 10:09:00 ERROR: Database connection failed
+2025-01-01 10:10:00 ERROR: Database connection failed
+2025-01-01 10:11:00 ERROR: Database connection failed
+2025-01-01 10:12:00 INFO: User logged in
+2025-01-01 10:13:00 WARNING: Disk space low
+2025-01-01 10:14:00 WARNING: Disk space low
+2025-01-01 10:15:00 INFO: User logged in
+2025-01-01 10:16:00 INFO: User logged in
+2025-01-01 10:17:00 ERROR: Database connection failed
+2025-01-01 10:18:00 INFO: User logged in
+2025-01-01 10:19:00 INFO: User logged in
+2025-01-01 10:20:00 INFO: User logged in
+2025-01-01 10:21:00 INFO: User logged in
+2025-01-01 10:22:00 ERROR: Database connection failed
+2025-01-01 10:23:00 INFO: User logged in
+2025-01-01 10:24:00 DEBUG: Variable x=5
+2025-01-01 10:25:00 ERROR: Database connection failed
+2025-01-01 10:26:00 ERROR: Database connection failed
+2025-01-01 10:27:00 INFO: User logged in
+2025-01-01 10:28:00 INFO: User logged in
+2025-01-01 10:29:00 INFO: User logged in
+2025-01-01 10:30:00 DEBUG: Variable x=5
+2025-01-01 10:31:00 INFO: User logged in
+2025-01-01 10:32:00 INFO: User logged in
+2025-01-01 10:33:00 INFO: User logged in
+2025-01-01 10:34:00 INFO: User logged in
+2025-01-01 10:35:00 ERROR: Database connection failed
+2025-01-01 10:36:00 DEBUG: Variable x=5
+2025-01-01 10:37:00 WARNING: Disk space low
+2025-01-01 10:38:00 DEBUG: Variable x=5
+2025-01-01 10:39:00 INFO: User logged in
+2025-01-01 10:40:00 DEBUG: Variable x=5
+2025-01-01 10:41:00 DEBUG: Variable x=5
+2025-01-01 10:42:00 DEBUG: Variable x=5
+2025-01-01 10:43:00 DEBUG: Variable x=5
+2025-01-01 10:44:00 DEBUG: Variable x=5
+2025-01-01 10:45:00 INFO: User logged in
+2025-01-01 10:46:00 DEBUG: Variable x=5
+2025-01-01 10:47:00 DEBUG: Variable x=5
+2025-01-01 10:48:00 DEBUG: Variable x=5
+2025-01-01 10:49:00 WARNING: Disk space low
+2025-01-01 10:50:00 DEBUG: Variable x=5
+2025-01-01 10:51:00 DEBUG: Variable x=5
+2025-01-01 10:52:00 INFO: User logged in
+2025-01-01 10:53:00 DEBUG: Variable x=5
+2025-01-01 10:54:00 WARNING: Disk space low
+2025-01-01 10:55:00 INFO: User logged in
+2025-01-01 10:56:00 CRITICAL: System crash
+2025-01-01 10:57:00 DEBUG: Variable x=5
+2025-01-01 10:58:00 WARNING: Disk space low
+2025-01-01 10:59:00 DEBUG: Variable x=5
+2025-01-01 11:00:00 INFO: User logged in
+2025-01-01 11:01:00 ERROR: Database connection failed
+2025-01-01 11:02:00 WARNING: Disk space low
+2025-01-01 11:03:00 INFO: User logged in
+2025-01-01 11:04:00 INFO: User logged in
+2025-01-01 11:05:00 ERROR: Database connection failed
+2025-01-01 11:06:00 DEBUG: Variable x=5
+2025-01-01 11:07:00 DEBUG: Variable x=5
+2025-01-01 11:08:00 CRITICAL: System crash
+2025-01-01 11:09:00 DEBUG: Variable x=5
+2025-01-01 11:10:00 WARNING: Disk space low
+2025-01-01 11:11:00 ERROR: Database connection failed
+2025-01-01 11:12:00 DEBUG: Variable x=5
+2025-01-01 11:13:00 WARNING: Disk space low
+2025-01-01 11:14:00 WARNING: Disk space low
+2025-01-01 11:15:00 DEBUG: Variable x=5
+2025-01-01 11:16:00 DEBUG: Variable x=5
+2025-01-01 11:17:00 INFO: User logged in
+2025-01-01 11:18:00 INFO: User logged in
+2025-01-01 11:19:00 INFO: User logged in
+2025-01-01 11:20:00 INFO: User logged in
+2025-01-01 11:21:00 WARNING: Disk space low
+2025-01-01 11:22:00 DEBUG: Variable x=5
+2025-01-01 11:23:00 DEBUG: Variable x=5
+2025-01-01 11:24:00 INFO: User logged in
+2025-01-01 11:25:00 INFO: User logged in
+2025-01-01 11:26:00 ERROR: Database connection failed
+2025-01-01 11:27:00 DEBUG: Variable x=5
+2025-01-01 11:28:00 INFO: User logged in
+2025-01-01 11:29:00 ERROR: Database connection failed
+2025-01-01 11:30:00 DEBUG: Variable x=5
+2025-01-01 11:31:00 DEBUG: Variable x=5
+2025-01-01 11:32:00 DEBUG: Variable x=5
+2025-01-01 11:33:00 INFO: User logged in
+2025-01-01 11:34:00 WARNING: Disk space low
+2025-01-01 11:35:00 ERROR: Database connection failed
+2025-01-01 11:36:00 ERROR: Database connection failed
+2025-01-01 11:37:00 INFO: User logged in
+2025-01-01 11:38:00 INFO: User logged in
+2025-01-01 11:39:00 INFO: User logged in
