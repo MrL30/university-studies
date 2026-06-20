@@ -8,8 +8,9 @@ This repository is organized by subject. Inside each folder, you will find the s
 
 ### 📚 Subjects
 
-* [📁 `PAC I`](./PAC I) - Applied Programming for Cybersecurity I
-* [📁 `PAC II`](./PAC II) - Applied Programming for Cybersecurity II
+
+* [📁 `PAC I`](./PAC-I) - Applied Programming for Cybersecurity I
+* [📁 `PAC II`](./PAC-II) - Applied Programming for Cybersecurity II 
 * [📁 `FCC`](./FCC) - Fundamentals of Cloud Computing (AWS, EC2, S3)
 * [📁 `Cloud-Cybersecurity-Project`](./Cloud-Cybersecurity-Project) - Cloud and Cybersecurity Final Project
 * [📁 `TC`](./TC) - Cloud Technologies
