@@ -1,0 +1,47 @@
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =========================
+# Node.js / JavaScript
+# =========================
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes Virtuais (Virtual environments)
+venv/
+.venv/
+env/
+.env/
+
+# =========================
+# C / C++ / Arduino 
+# =========================
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# =========================
+# Editores de Código (IDE)
+# =========================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
