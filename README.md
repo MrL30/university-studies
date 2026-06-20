@@ -16,10 +16,10 @@ This repository is organized by subject. Inside each folder, you will find the s
 * [📁 `RC`](./Computer-Networks) - Computer Networks
 * [📁 `ASRC`](./Computer-Networks-Admin-Security) - Computer Networks Administration and Security
 * [📁 `OC`](./Cybersecurity-Operations) - Cybersecurity Operations
-* [📁 ](./Database-Management)`BD` - Database Foundations, Administration, and Management
 * [📁 `IC`](./Intro-to-Cybersecurity) - Introduction to Cybersecurity
 * [📁 `IoT`](./IoT-Cybersecurity) - IoT Cybersecurity
 * [📁 `AO`](./Operating-Environments) - Operating Systems
+* [📁`DB`](./Database-Management) - Database Foundations, Administration, and Management 
 
 ## 💻 Technologies & Tools
 
