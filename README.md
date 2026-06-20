@@ -8,18 +8,18 @@ This repository is organized by subject. Inside each folder, you will find the s
 
 ### 📚 Subjects
 
-* [📁 `PAC I`](./Applied-Programming-Cybersecurity-I) - Applied Programming for Cybersecurity I
-* [📁 `PAC II`](./Applied-Programming-Cybersecurity-II) - Applied Programming for Cybersecurity II
-* [📁 `FCC`](./Cloud-Computing-Foundations) - Fundamentals of Cloud Computing (AWS, EC2, S3)
+* [📁 `PAC I`](./PAC I) - Applied Programming for Cybersecurity I
+* [📁 `PAC II`](./PAC II) - Applied Programming for Cybersecurity II
+* [📁 `FCC`](./FCC) - Fundamentals of Cloud Computing (AWS, EC2, S3)
 * [📁 `Cloud-Cybersecurity-Project`](./Cloud-Cybersecurity-Project) - Cloud and Cybersecurity Final Project
-* [📁 `TC`](./Cloud-Technologies) - Cloud Technologies
-* [📁 `RC`](./Computer-Networks) - Computer Networks
-* [📁 `ASRC`](./Computer-Networks-Admin-Security) - Computer Networks Administration and Security
-* [📁 `OC`](./Cybersecurity-Operations) - Cybersecurity Operations
-* [📁 `IC`](./Intro-to-Cybersecurity) - Introduction to Cybersecurity
-* [📁 `IoT`](./IoT-Cybersecurity) - IoT Cybersecurity
-* [📁 `AO`](./Operating-Environments) - Operating Systems
-* [📁`DB`](./Database-Management) - Database Foundations, Administration, and Management     
+* [📁 `TC`](./TC) - Cloud Technologies
+* [📁 `RC`](./RC) - Computer Networks
+* [📁 `ASRC`](./ASRC) - Computer Networks Administration and Security
+* [📁 `OC`](./OC) - Cybersecurity Operations
+* [📁 `IC`](./IC) - Introduction to Cybersecurity
+* [📁 `IoT`](./IoT) - IoT Cybersecurity
+* [📁 `AO`](./AO) - Operating Systems
+* [📁 `DB`](./DB) - Database Foundations, Administration, and Management
 
 ## 💻 Technologies & Tools
 
