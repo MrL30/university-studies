@@ -9,12 +9,12 @@ import datetime
 
 print("=" * 64)
 
-current_age = int(input("\nWhat's your current age: "))
+current_age = int(input("What's your current age: "))
 retire_age = int(input("What's your ideal retirement age: "))
 
 # The IF Statement: Python checks if this condition is True
 if current_age >= retire_age:
-    print("\nYou can officially retire!!\n")
+    print("\nYou can officially retire!!")
     
 # The ELSE Statement: If the condition above was False, Python runs this code instead
 else:
@@ -25,6 +25,6 @@ else:
     retire_year = current_year + years_to_retire
     
     print(f"\nYou have {years_to_retire} years left until you can retire.")
-    print(f"It will be the year {retire_year} when you retire.\n")
+    print(f"It will be the year {retire_year} when you retire.")
 
 print("=" * 64)

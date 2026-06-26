@@ -10,7 +10,7 @@ import math
 
 print("=" * 64)
 
-x = int(input("\nAngle value (in degrees): "))
+x = int(input("Angle value (in degrees): "))
 
 # Computers calculate trig using radians, so we must convert first!
 y = math.radians(x)
@@ -25,6 +25,6 @@ print(f"Cosine({x}): {cosine:.4f}")
 # Proving the Pythagorean identity! 
 # We round it to handle floating-point precision quirks
 pythagorean_identity = (sine ** 2) + (cosine ** 2)
-print(f"The sum of the squares of sin({x}) and cos({x}) = {pythagorean_identity:.2f}\n")
+print(f"The sum of the squares of sin({x}) and cos({x}) = {pythagorean_identity:.2f}")
 
 print("=" * 64)

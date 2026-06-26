@@ -9,12 +9,12 @@ print("=" * 64)
 x = 10
 y = 5
 
-print(f"\nBefore the change: x = {x} and y = {y}")
+print(f"Before the change: x = {x} and y = {y}")
 
 temp = x  # Pour the milk (10) into the empty glass
 x = y     # Pour the juice (5) into the 'x' glass
 y = temp  # Pour the milk (10) from the 'temp' glass into the 'y' glass
 
-print(f"After the change: x = {x} and y = {y}\n")
+print(f"After the change: x = {x} and y = {y}")
 
 print("=" * 64)

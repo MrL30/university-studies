@@ -7,7 +7,7 @@
 
 print("=" * 64)
 
-name = input("\nWhat's your name: ")
+name = input("What's your name: ")
 
 # We use int() to convert the string into a whole number
 age = int(input("What's your age: "))
@@ -18,6 +18,6 @@ price = float(input("What's the price of your product: "))
 # Now we print the values and use type() to prove what they are under the hood
 print(f"\nName entered: {name} (type: {type(name)})")
 print(f"Age entered: {age} (type: {type(age)})")
-print(f"Price entered: {price} (type: {type(price)})\n")
+print(f"Price entered: {price} (type: {type(price)})")
 
 print("=" * 64)

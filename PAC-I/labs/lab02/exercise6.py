@@ -8,7 +8,7 @@
 
 print("=" * 64)
 
-name = input("\nWhat's your name: ")
+name = input("What's your name: ")
 age = int(input("What's your age: "))
 height = float(input("What's your height in meters: "))
 
@@ -16,14 +16,14 @@ print(f"\nMy name is {name}, I'm {age} yo and I'm {height}m tall.")
 
 print("=" * 64)
 
-current_year = int(input("\nWhat's the current year: "))
+current_year = int(input("What's the current year: "))
 year_of_birth = current_year - age
 
 print(f"\nI was born in {year_of_birth}.")
 
 print("=" * 64)
 
-weight = float(input("\nWhat's your weight in kg: "))
+weight = float(input("What's your weight in kg: "))
 
 # Using Python's exponent operator (**) to square the height
 BMI = weight / (height ** 2)
@@ -34,7 +34,7 @@ print(f"\nMy BMI is {BMI:.2f}")
 print("=" * 64)
 
 # Step 4: Inspecting Data Types
-print("\nEvery variable type: ")
+print("Every variable type: ")
 print(type(name))          # Will show <class 'str'>
 print(type(age))           # Will show <class 'int'>
 print(type(height))        # Will show <class 'float'>
@@ -42,3 +42,5 @@ print(type(current_year))  # Will show <class 'int'>
 print(type(year_of_birth)) # Will show <class 'int'>
 print(type(weight))        # Will show <class 'float'>
 print(type(BMI))           # Will show <class 'float'>
+
+print("=" * 64)

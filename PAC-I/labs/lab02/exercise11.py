@@ -7,7 +7,7 @@
 
 print("=" * 64)
 
-original_price = float(input("\nWhat's the original price of the product: "))
+original_price = float(input("What's the original price of the product: "))
 discount_percentage = float(input("What's the discount percentage (e.g., type 20 for 20%): "))
 VAT_percentage = float(input("What's the VAT amount applied to the final price (e.g., type 15 for 15%): "))
 
@@ -23,6 +23,6 @@ final_price_VAT = price_after_discount + VAT_amount
 print(f"\nDiscount amount: ${discount:.2f}")
 print(f"Price after discount: ${price_after_discount:.2f}")
 print(f"VAT amount: ${VAT_amount:.2f}")
-print(f"Final price with VAT: ${final_price_VAT:.2f}\n")
+print(f"Final price with VAT: ${final_price_VAT:.2f}")
 
 print("=" * 64)
